@@ -39,8 +39,6 @@ This repository brings together projects that reflect my technical and analytica
 
    </p>
 
-<br/>
-<br/>
 
 ### 🤖 Linguagens 
 
