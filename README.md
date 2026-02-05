@@ -32,9 +32,9 @@ This repository brings together projects that reflect my technical and analytica
 
   <p align="left">
       <a href="https://github.com/matielo1603">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/matielo1603?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/matielo1603?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
       <a href="https://github.com/matielo1603?tab=repositories">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matielo1603?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matielo1603?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
       <a href="https://www.google.com/maps/place/S%C3%A3o+Paulo,+State+of+S%C3%A3o+Paulo/@-23.6814332,-46.9256281,10z/data=!3m1!4b1!4m6!3m5!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5557714!4d-46.6395571!16zL20vMDIycGZt?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D"> <img src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-green?style=for-the-badge&logo=location&logoColor=white" /></a>
 
    </p>
