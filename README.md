@@ -7,11 +7,28 @@
      
    </p>
 
+
+*English version bellow*
+
+
+### 🇧🇷 Português
 Me chamo Matheus Matielo, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas da Informação na Universidade Presbiteriana Mackenzie. Sou um profissional em formação com foco em Engenharia de dados, atuando na construção de pipelines desde a ingestão e organização até a entrega de informações prontas para uso analítico.
 
 Ao longo da minha formação, venho desenvolvendo projetos práticos, sempre buscando entender não só como fazer, mas por que cada decisão técnica faz sentido dentro de um fluxo de dados.
 
 Este repositório reúne projetos que refletem minha evolução técnica e analítica, além do meu interesse em resolver problemas reais com dados. Meu objetivo é sempre estar evoluindo e me desenvolvendo profissionalmente como Engenheiro de Dados. 
+
+---
+
+### 🇺🇸 English
+My name is Matheus Matielo, I am 20 years old, and I am from São Paulo. I am currently studying Information Systems at Mackenzie Presbyterian University. I am a professional in training with a focus on Data Engineering, working on building pipelines from data ingestion and organization to the delivery of information ready for analytical use.
+
+Throughout my education, I have been developing practical projects, always seeking to understand not only how to do things, but why each technical decision makes sense within a data workflow.
+
+This repository brings together projects that reflect my technical and analytical growth, as well as my interest in solving real-world problems with data. My goal is to continuously evolve and develop professionally as a Data Engineer.
+
+<br/>
+<br/>
 
   <p align="left">
       <a href="https://github.com/matielo1603">
@@ -22,8 +39,8 @@ Este repositório reúne projetos que refletem minha evolução técnica e anal�
 
    </p>
 
-
----
+<br/>
+<br/>
 
 ### 🤖 Linguagens 
 
